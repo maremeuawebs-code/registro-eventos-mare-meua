@@ -3,7 +3,7 @@ export type Language = 'es' | 'en';
 export const translations = {
   es: {
     welcomeTitle: 'Formulario para páginas de eventos',
-    welcomeDesc: 'Completa este formulario para que podamos organizar y estructurar tu evento con todos los detalles necesarios.',
+    welcomeDesc: 'Completa este formulario para que podamos diseñar la página de tu evento con todos los detalles necesarios.',
     confirmDataReady: 'Confirmo que tengo los datos principales del evento listos para avanzar.',
     warningDataReady: 'Debes confirmar para poder continuar.',
     startBtn: 'Empezar',
@@ -102,7 +102,7 @@ export const translations = {
   },
   en: {
     welcomeTitle: 'Web Form for Event Pages',
-    welcomeDesc: 'Complete this form so we can organize and structure your event with all the necessary details.',
+    welcomeDesc: 'Complete this form so we can design your event page with all the necessary details.',
     confirmDataReady: 'I confirm that I have the main event data ready to proceed.',
     warningDataReady: 'You must confirm to continue.',
     startBtn: 'Get Started',
