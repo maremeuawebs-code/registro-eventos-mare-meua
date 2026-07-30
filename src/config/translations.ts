@@ -2,7 +2,7 @@ export type Language = 'es' | 'en';
 
 export const translations = {
   es: {
-    welcomeTitle: 'Formulario Eventos Maremaut',
+    welcomeTitle: 'Formulario Web para Eventos',
     welcomeDesc: 'Completa este formulario para que podamos organizar y estructurar tu evento con todos los detalles necesarios.',
     confirmDataReady: 'Confirmo que tengo los datos principales del evento listos para avanzar.',
     warningDataReady: 'Debes confirmar para poder continuar.',
@@ -101,7 +101,7 @@ export const translations = {
     errSubmit: 'Hubo un error al enviar el formulario. Por favor inténtalo de nuevo.'
   },
   en: {
-    welcomeTitle: 'Maremaut Event Registration',
+    welcomeTitle: 'Web Form for Events',
     welcomeDesc: 'Complete this form so we can organize and structure your event with all the necessary details.',
     confirmDataReady: 'I confirm that I have the main event data ready to proceed.',
     warningDataReady: 'You must confirm to continue.',
